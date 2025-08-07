@@ -27,5 +27,4 @@ A simple and fun **Dice Game** built using **React** and **Vite**. This project 
 
 ---
 
-## 📂 Project Structure
 
